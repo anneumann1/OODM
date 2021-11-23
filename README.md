@@ -1,4 +1,4 @@
-# OODM
+### Open Online Data Meetup (OODM)
 
 
 ![Slide1](https://user-images.githubusercontent.com/68635246/143010223-c6405b8d-867b-4048-9d66-472d65f793a8.jpg)
